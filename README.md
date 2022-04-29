@@ -1,2 +1,2 @@
 # nvim-config
- my nvim config based on Lunar vim
+ my nvim config
